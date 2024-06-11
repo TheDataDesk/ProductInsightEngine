@@ -16,7 +16,7 @@ Implementation Plan
 
 # Prerequisites
 
-Install Python 3.9 (if not already installed)
+Install Python 3.9.6 (if not already installed)
 
 ### Follow instructions at: https://www.python.org/downloads/release/python-390/
 
