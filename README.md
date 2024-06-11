@@ -41,6 +41,16 @@ You can install these packages using pip:
 
 - python main.py
 
+# Findings
+
+✅ Variant 2 is the most effective in terms of total purchased amounts. 
+ 
+✅ There is no significant difference in the average purchase values.
+
+✅ Variant 2 is the most effective in terms of the number of purchases.
+
+✅ Variant 3 shows significantly higher retention rates.
+
 # Conclusion
 
 This README provides a comprehensive guide to running the analysis code, interpreting the results, and implementing the recommendations based on the findings. By following the steps and using the provided code, you can replicate the analysis and make data-driven decisions for feature roll-out.
