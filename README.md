@@ -26,8 +26,7 @@ Ensure you have the following packages installed:
 - scikit-posthocs
 
 You can install these packages using pip:
-
-- pip install pandas matplotlib seaborn scipy lifelines scikit-posthocs
+```sh pip install pandas matplotlib seaborn scipy lifelines scikit-posthocs
 
 # How to Run the Code
 
