@@ -16,6 +16,12 @@ Implementation Plan
 
 # Prerequisites
 
+Install Python 3.9 (if not already installed)
+
+### Follow instructions at: https://www.python.org/downloads/release/python-390/
+
+# Install required packages
+pip install pandas matplotlib seaborn scipy lifelines scikit-posthocs
 Ensure you have the following packages installed:
 
 - pandas
