@@ -51,7 +51,7 @@ You can install these packages using pip:
 
 ✅ Variant 2 is the most effective in terms of total purchased amounts. 
  
-✅ There is no significant difference in the average purchase values.
+✅ There is no significant difference in the single purchase values.
 
 ✅ Variant 2 is the most effective in terms of the number of purchases.
 
