@@ -33,7 +33,8 @@ Ensure you have the following packages installed:
 
 You can install these packages using pip:
 
-- pip install pandas matplotlib seaborn scipy lifelines scikit-posthocs
+``` pip install pandas matplotlib seaborn scipy lifelines scikit-posthocs```
+
 
 # How to Run the Code
 
@@ -45,6 +46,16 @@ You can install these packages using pip:
 3. Run the Analysis:
 
 - python main.py
+
+# Findings
+
+✅ Variant 2 is the most effective in terms of total purchased amounts. 
+ 
+✅ There is no significant difference in the average purchase values.
+
+✅ Variant 2 is the most effective in terms of the number of purchases.
+
+✅ Variant 3 shows significantly higher retention rates.
 
 # Conclusion
 
